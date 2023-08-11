@@ -1,2 +1,2 @@
-# BidMaster---Auction-Site
+BidMaster---Auction-Site
 Project Name
