@@ -9,5 +9,5 @@ Bidmaster is a sophisticated online auction platform designed to facilitate seam
    Usage
    API Documentation
    Contributing
-   License
+   Licens
    
