@@ -1,3 +1,7 @@
+![swagger api 1](https://github.com/girikaushikkumar/BidMaster---Auction-Site/assets/139802296/9d59aa92-5f07-4789-a3b8-e3583d0d9a19)
+![swagger api 2](https://github.com/girikaushikkumar/BidMaster---Auction-Site/assets/139802296/427627be-0140-4768-959d-a517f7bc8281)
+![swagger api 3](https://github.com/girikaushikkumar/BidMaster---Auction-Site/assets/139802296/46084308-924a-4ec9-8cdf-6b4559b9dec3)
+![swagger api 4](https://github.com/girikaushikkumar/BidMaster---Auction-Site/assets/139802296/cf8e1cae-f9f2-4926-950c-d64817df6ffa)
 
 # Bidmaster
 
